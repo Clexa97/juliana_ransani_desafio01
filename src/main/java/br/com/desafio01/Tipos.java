@@ -1,4 +1,4 @@
-package desafio01;
+package br.com.desafio01;
 
 public class Tipos {
 
