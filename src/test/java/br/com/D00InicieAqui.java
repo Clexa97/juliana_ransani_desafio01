@@ -16,7 +16,7 @@ public class D00InicieAqui {
         imprimir("[01] - Crie um repositório no GitHub privado:");
         imprimir("    [01.A] - Padrão do nome: primeiroNome_ultimoNome_desafio01");
         imprimir("    [01.B] - A branch principal deve ter o nome main.");
-        checkPoint("Checkpoint 01", false);
+        checkPoint("Checkpoint 01", true);
     }
 
     @Test
@@ -31,6 +31,6 @@ public class D00InicieAqui {
         imprimir("[03] - Execute os exercícios em ordem.");
         imprimir("[04] - Abra um PR por desafio da branch dev para a main.");
         imprimir("[05] - Boa sorte e divirta-se.");
-        checkPoint("Checkpoint 02", false);
+        checkPoint("Checkpoint 02", true);
     }
 }
