@@ -3,13 +3,15 @@ package br.com.desafio03;
 public class Calculadora {
 	
 	
-	public int soma(Integer a, Integer b) {
+	public Integer soma(Integer a, Integer b) {
 		return a + b;
 	}
 	
-	public Integer subtração(String a, int b) {
+	public Integer subtracao(String a, Integer b) {
 		return Integer.parseInt(a) - b;
-		
+	}
+	public Integer multiplicacao() {
+		return null;
 	}
 	
 }

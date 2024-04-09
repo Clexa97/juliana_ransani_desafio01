@@ -106,7 +106,7 @@ class D03ExercicioTest {
         }
 
         imprimir("[30] - Parabéns, você concluiu esta etapa do desafio:");
-        checkPoint("Checkpoint 10", false);
+        checkPoint("Checkpoint 10", true);
     }
 
 }
