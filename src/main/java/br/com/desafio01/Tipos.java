@@ -8,6 +8,7 @@ public class Tipos {
 	public long aLong;
 	public float aFloat;
 	public double aDouble;
+	public boolean aBoolean;
 	public char aChar;
 	
 }
